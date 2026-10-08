@@ -23,3 +23,8 @@ void mama(){
     cout << "dad";
     cout << "mom";
 }
+
+void dada(){
+    cout << "mom";
+    cout << "dad";
+}
