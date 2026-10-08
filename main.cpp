@@ -18,3 +18,7 @@ int main()
     coco(name1, name2);
     return 0;
 }
+
+void mama(){
+    cout << "dad";
+}
