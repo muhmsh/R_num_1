@@ -24,7 +24,3 @@ void mama(){
     cout << "mom";
 }
 
-void dada(){
-    cout << "mom";
-    cout << "dad";
-}
