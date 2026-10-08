@@ -21,4 +21,5 @@ int main()
 
 void mama(){
     cout << "dad";
+    cout << "mom";
 }
